@@ -10,5 +10,6 @@ This is a Football Score predictor using machine learning where I have implement
       -> Splitting the data into training and test sets.
   
 4) TRAINING ALGORITHM USED :- Random Forest Classifier
+5) Learning the matches played in the season of 2022 - 2023 still ongoing and the predicting the same data with 67% accuracy on the same.
 
 
